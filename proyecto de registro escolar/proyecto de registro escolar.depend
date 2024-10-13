@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1728431066 source:c:\users\tomas\desktop\proyecto de registro escolar\main.cpp
+	<iostream>
+	"clsFecha.h"
+	"clsPersona.h"
+	"clsAlumno.h"
+
+1727982799 c:\users\tomas\desktop\proyecto de registro escolar\clsfecha.h
+
+1728428573 source:c:\users\tomas\desktop\proyecto de registro escolar\funciones.cpp
+	<iostream>
+	"Funciones.h"
+
+1728428573 c:\users\tomas\desktop\proyecto de registro escolar\funciones.h
+
+1728430854 c:\users\tomas\desktop\proyecto de registro escolar\clspersona.h
+	"clsFecha.h"
+
+1728428584 source:c:\users\tomas\desktop\proyecto de registro escolar\clsfecha.cpp
+	<iostream>
+	"clsFecha.h"
+
+1728429174 source:c:\users\tomas\desktop\proyecto de registro escolar\clspersona.cpp
+	<iostream>
+	<cstring>
+	"clsPersona.h"
+	"Funciones.h"
+
+1728431049 c:\users\tomas\desktop\proyecto de registro escolar\clsalumno.h
+	"clsPersona.h"
+
+1728430898 source:c:\users\tomas\desktop\proyecto de registro escolar\clsalumno.cpp
+	<iostream>
+	"clsAlumno.h"
+
+1728473247 source:c:\users\pc-01\desktop\proyecto de registro escolar\clsfecha.cpp
+	<iostream>
+	"clsFecha.h"
+	<locale.h>
+
+1727982800 c:\users\pc-01\desktop\proyecto de registro escolar\clsfecha.h
+
+1728473201 source:c:\users\pc-01\desktop\proyecto de registro escolar\clspersona.cpp
+	<iostream>
+	<cstring>
+	<locale.h>
+	"clsPersona.h"
+	"Funciones.h"
+
+1728430856 c:\users\pc-01\desktop\proyecto de registro escolar\clspersona.h
+	"clsFecha.h"
+
+1728428574 c:\users\pc-01\desktop\proyecto de registro escolar\funciones.h
+
+1728428574 source:c:\users\pc-01\desktop\proyecto de registro escolar\funciones.cpp
+	<iostream>
+	"Funciones.h"
+
+1728431068 source:c:\users\pc-01\desktop\proyecto de registro escolar\main.cpp
+	<iostream>
+	"clsFecha.h"
+	"clsPersona.h"
+	"clsAlumno.h"
+
+1728431050 c:\users\pc-01\desktop\proyecto de registro escolar\clsalumno.h
+	"clsPersona.h"
+
+1728477824 source:c:\users\pc-01\desktop\proyecto de registro escolar\clsalumno.cpp
+	<iostream>
+	"clsAlumno.h"
+
